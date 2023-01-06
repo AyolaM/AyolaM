@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **ayola.codes@gmail.com**
 
-- ⚡ Fun fact **I raise live stock and own a fashion boutique**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
