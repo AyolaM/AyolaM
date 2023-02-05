@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Interim Core**
 
-- 🌱 I’m currently learning **React, Next.js and AWS**
+- 🌱 I’m currently learning **Data analytics, Automation and AWS**
 
 - 👨‍💻 All of my projects are available at [ayola.codes](ayola.codes)
 
