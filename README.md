@@ -3,13 +3,12 @@
 <h3 align="center">A passionate full stack developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayolam" alt="ayolam" /></a> </p>
 
-- 🔭 I’m currently working on **Interim Core**
 
-- 🌱 I’m currently learning **Data analytics, Automation and AWS**
 
-- 👨‍💻 All of my projects are available at [ayola.codes](ayola.codes)
+- 🌱 I’m currently learning **Java and Angular**
 
-- 💬 Ask me about **Python, django AND JavaScript**
+
+- 💬 Ask me about **Python, django AND Webscraping**
 
 - 📫 How to reach me **ayola.codes@gmail.com**
 
